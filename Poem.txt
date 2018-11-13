@@ -1,3 +1,6 @@
+##Source learning-to-code-amsterdam: https://github.com/Reinoptland/learning-to-code-amsterdam/blob/master/The%20Desert%20of%20Despair/1.buy-a-camel.md
+##Source Git and GitHub for Poets: https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
 Poem tutorial
 
 Life Is Fine by Langston Hughes
